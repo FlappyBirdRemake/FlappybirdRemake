@@ -28,4 +28,4 @@ flap_sound = pygame.mixer.Sound('sound/sfx_wing.wav')
 death_sound = pygame.mixer.Sound('sound/sfx_hit.wav')
 score_sound = pygame.mixer.Sound('sound/sfx_point.wav')
 score_sound_countdown = 100
-ncvncfnf
+
